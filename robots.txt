@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://newsabitaprotishthan.netlify.app/sitemap.xml
